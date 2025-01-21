@@ -1,0 +1,14 @@
+.product{
+    display:  flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 2em;
+    opacity: 0.9;
+    backdrop-filter: blur(10px);
+  }
+  
+  .product img{
+    width: 20vw;
+    height: 40vh;
+  }
